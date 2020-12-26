@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: rgb(78, 38, 92);
+background: radial-gradient(circle, rgb(192, 29, 100) 0%, rgb(49, 87, 129) 100%);
+}
+canvas {
+  display: block;
+}
